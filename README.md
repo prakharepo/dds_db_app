@@ -11,4 +11,4 @@ Show students placed in a particular company<br/>
 Delete student detail<br/>
 Update student information ie. mobile no.<br/>
 Update student placed company which will through Integrity constraint violation<br/>
-![alt text](https://github.com/prakharepo/dds_db_app/edit/master/app_snippet.JPG?raw=true)
+![alt text](https://github.com/prakharepo/dds_db_app/app_snippet.JPG?raw=true)
